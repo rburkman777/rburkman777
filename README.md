@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Rex Burkman! 👋
 
 ## Biography
@@ -17,5 +15,6 @@
 - Power BI
 - Stata (limited)
 
-## Link to Data Science Portfolio
+## Link to Data Science Portfolio Repository 
 - 
+
