@@ -16,6 +16,6 @@
 - Stata (limited)
 
 ## Link to Data Science Portfolio Repository 
-- https://github.com/rburkman777/Burkman-Data-Science-Portfolio
+- [Click here](https://github.com/rburkman777/Burkman-Data-Science-Portfolio)
 
 
