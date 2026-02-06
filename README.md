@@ -18,6 +18,16 @@
 
 - Stata (limited) <img width="40" height="13" alt="image" src="https://github.com/user-attachments/assets/7d258b7e-4a80-4302-ac1d-00377d67b34b" />
 
+## Current Projects
+
+- No projects yet. Check back soon!
+
+## Goals
+
+- Build a portfolio of projects that reflect my interests and talents
+- Increase my proficiency in various coding languages, including Python
+- Learn about new applications that can streamline coding
+
 
 ## Link to Data Science Portfolio Repository 
 - [Click here](https://github.com/rburkman777/Burkman-Data-Science-Portfolio)
