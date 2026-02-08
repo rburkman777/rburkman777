@@ -20,7 +20,7 @@
 
 ## Current Projects
 
-- No projects yet. Check back soon!
+- Currently working on a streamlit app that allows the user to filter through congressional elections and observe patterns in them. See my data science repository for more! Additional projects will be posted here as the semester continues. 
 
 ## Goals
 
