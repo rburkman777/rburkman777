@@ -34,4 +34,4 @@
 - [Click here](https://github.com/rburkman777/Burkman-Data-Science-Portfolio)
 
 ## Link to TidyData Repository 
-- [Click here] (https://github.com/rburkman777/TidyDataProject)
+- [Click here](https://github.com/rburkman777/TidyDataProject)
