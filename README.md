@@ -20,6 +20,7 @@
 
 ## Current Projects
 
+- I am very pleased to present a new project that I have recently completed on tidy data. Tidying data is one of the most fundamental skills data scientists can have, so I am excited to present my skills work in this field so far. 
 - Currently working on a streamlit app that allows the user to filter through congressional elections and observe patterns in them. See my data science repository for more! Additional projects will be posted here as the semester continues. 
 
 ## Goals
@@ -32,4 +33,5 @@
 ## Link to Data Science Portfolio Repository 
 - [Click here](https://github.com/rburkman777/Burkman-Data-Science-Portfolio)
 
-
+## Link to TidyData Repository 
+- [Click here] (https://github.com/rburkman777/TidyDataProject)
