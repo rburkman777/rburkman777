@@ -20,7 +20,7 @@
 
 ## Current Projects
 
-- I am very pleased to present a new project that I have recently completed on tidy data. Tidying data is one of the most fundamental skills data scientists can have, so I am excited to present my work in this field so far. The project includes code illustrating how I tidied a set of unorganized data on Olympic medalists. The project illustrates the depth of my technical skills and my interest in data organization and presentation. To access the project, click on the link to the my TidyData Respository below. 
+- I am very pleased to present a new project that I have recently completed on tidy data. Tidying data is one of the most fundamental skills data scientists can have, so I am excited to present my work in this field so far. The project includes code illustrating how I tidied a set of unorganized data on Olympic medalists. The project illustrates the depth of my technical skills and my interest in data organization and presentation. To access the project, click on the link to the my TidyData Respository below (notes3 file has the code).
   
 - I have also completed  a streamlit app that allows the user to filter through congressional elections and observe patterns in them. See my Data Science repository for more!
 
