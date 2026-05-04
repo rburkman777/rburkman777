@@ -17,7 +17,6 @@
 - Power BI <img width="20" height="25" alt="image" src="https://github.com/user-attachments/assets/a3bf14c8-d66f-4f9b-a139-6f63aa676182" style="vertical-align: middle;" />
 
 - Stata (limited) <img width="40" height="13" alt="image" src="https://github.com/user-attachments/assets/7d258b7e-4a80-4302-ac1d-00377d67b34b" style="vertical-align: middle;" />
-
 ## Current Projects
 
 ### Unsupervised Machine Learning App
