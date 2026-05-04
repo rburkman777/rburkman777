@@ -7,10 +7,12 @@
 - 💡 I have experience doing consultation projects for health care and energy firms as a student
 - 🏛️ I have experience interning on Capitol Hill 
 
-
 ## Technical Skills
 
-- <img width="20" height="20" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/7b67f95c-0139-4432-bbdb-46d07cfd6bae" />Python
+- ### 🐍 Python
+- ### 📊 Microsoft Excel
+- ### 
+  
 
 
 
