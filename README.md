@@ -25,3 +25,21 @@
 
 - I am very pleased to present a new project that I have recently completed on tidy data. Tidying data is one of the most fundamental skills data scientists can have, so I am excited to present my work in this field so far. The project includes code illustrating how I tidied a set of unorganized data on Olympic medalists. The project illustrates the depth of my technical skills and my interest in data organization and presentation. To access the project, click on the link to the my TidyData Respository below (notes3 file has the code).
 
+- I have also completed  a streamlit app that allows the user to filter through congressional elections and observe patterns in them. See my Data Science repository for more!
+
+- Additional projects will be posted here as the semester continues. 
+
+## Goals
+
+- Build a portfolio of projects that reflect my interests and talents
+- Increase my proficiency in various coding languages, including Python
+- Learn about new applications that can streamline coding
+
+
+## Link to Data Science Portfolio Repository 
+- [Click here](https://github.com/rburkman777/Burkman-Data-Science-Portfolio)
+
+## Link to new machine learning project folder
+- https://github.com/rburkman777/Burkman-Data-Science-Portfolio/tree/main/MLStreamlitApp
+
+
