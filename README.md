@@ -9,14 +9,14 @@
 
 
 ## My Technical Skills
-- <span style="white-space: nowrap;">Python <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2da92f52-971e-4bdb-bc80-2df59f745026" /></span>
-- <span style="white-space: nowrap;">R Studio <img width="48" height="16.8" alt="image" src="https://github.com/user-attachments/assets/8daf2887-0dc7-4ef7-b8c6-729d1247bcf4" /></span>
+- Python <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2da92f52-971e-4bdb-bc80-2df59f745026" />
+- R Studio <img width="48" height="16.8" alt="image" src="https://github.com/user-attachments/assets/8daf2887-0dc7-4ef7-b8c6-729d1247bcf4" />
 
-- <span style="white-space: nowrap;">Microsoft Office <img width="24" height="22" alt="image" src="https://github.com/user-attachments/assets/2240da23-ab15-4e8f-8bfc-58dddcc6e49a" /></span>
+- Microsoft Office <img width="24" height="22" alt="image" src="https://github.com/user-attachments/assets/2240da23-ab15-4e8f-8bfc-58dddcc6e49a" />
 
-- <span style="white-space: nowrap;">Power BI <img width="20" height="25" alt="image" src="https://github.com/user-attachments/assets/a3bf14c8-d66f-4f9b-a139-6f63aa676182" /></span>
+- Power BI <img width="20" height="25" alt="image" src="https://github.com/user-attachments/assets/a3bf14c8-d66f-4f9b-a139-6f63aa676182" />
 
-- <span style="white-space: nowrap;">Stata (limited) <img width="40" height="13" alt="image" src="https://github.com/user-attachments/assets/7d258b7e-4a80-4302-ac1d-00377d67b34b" /></span>
+- Stata (limited) <img width="40" height="13" alt="image" src="https://github.com/user-attachments/assets/7d258b7e-4a80-4302-ac1d-00377d67b34b" />
 ## Current Projects
 
 ### Unsupervised Machine Learning App
