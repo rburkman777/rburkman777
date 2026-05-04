@@ -9,7 +9,7 @@
 
 ## Technical Skills
 
-<div>Python <img width="10" height="10" src="https://github.com/user-attachments/assets/fabbc2b3-2639-4edc-ac90-d895fd01d35d" /></div>
+<div>Python <img width="20" height="20" src="https://github.com/user-attachments/assets/fabbc2b3-2639-4edc-ac90-d895fd01d35d" /></div>
 <div>R Studio <img width="48" height="16.8" src="https://github.com/user-attachments/assets/8daf2887-0dc7-4ef7-b8c6-729d1247bcf4" /></div>
 <div>Microsoft Office <img width="24" height="22" src="https://github.com/user-attachments/assets/2240da23-ab15-4e8f-8bfc-58dddcc6e49a" /></div>
 <div>Power BI <img width="20" height="25" src="https://github.com/user-attachments/assets/a3bf14c8-d66f-4f9b-a139-6f63aa676182" /></div>
