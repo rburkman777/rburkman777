@@ -9,7 +9,8 @@
 
 
 ## Technical Skills
-- Python <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2da92f52-971e-4bdb-bc80-2df59f745026" />
+- Python <img width="960" height="960" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/5457feb8-ee73-4f2a-af84-bf84c48e33cd" />
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2da92f52-971e-4bdb-bc80-2df59f745026" />
 - R Studio <img width="48" height="16.8" alt="image" src="https://github.com/user-attachments/assets/8daf2887-0dc7-4ef7-b8c6-729d1247bcf4" />
 
 - Microsoft Office <img width="24" height="22" alt="image" src="https://github.com/user-attachments/assets/2240da23-ab15-4e8f-8bfc-58dddcc6e49a" />
