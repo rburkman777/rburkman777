@@ -11,7 +11,7 @@
 
 - ### 🐍 Python
 - ### 📊 Microsoft Excel
-- ### 
+- ### Power BI <img width="20" height="25" alt="image" src="https://github.com/user-attachments/assets/a3bf14c8-d66f-4f9b-a139-6f63aa676182" />
   
 
 
