@@ -10,7 +10,7 @@
 
 ## Technical Skills
 
--<img width="20" height="20" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/fabbc2b3-2639-4edc-ac90-d895fd01d35d" /> Python
+- Python <img width="20" height="20" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/fabbc2b3-2639-4edc-ac90-d895fd01d35d" /> 
 
 
 
