@@ -27,19 +27,15 @@ Proficient in data-clearning capacities of Power BI
 Proficient in data-clearning capacities of Power BI
 
 ## Current Projects
-
-
-## Link to Data Science Portfolio Repository 
+Please follow the link below to see some of my latest work:
 - [Click here](https://github.com/rburkman777/Burkman-Data-Science-Portfolio)
 
--I have just completed a new project on machine learning. Users have the opportunity to upload data and explore supervised machine learning via k-nearest neighbor, decision tree, or linear regression. The application is in Streamlit and demonstrates my skills in Python, Streamlit app development, and app layout. See Burkman-Data-Science-Portfolio for more! 
-- I have just completed a new project on machine learning. Users have the opportunity to upload data and explore supervised machine learning via k-nearest neighbor, decision tree, or linear regression. The application is in Streamlit and demonstrates my skills in Python, Streamlit app development, and app layout. See Burkman-Data-Science-Portfolio for more! 
+These include: 
+- An interactive Streamlit app that enables users to explore different kinds of unsupervised machine learning
+- An interactive Streamlit app that enables users to explore different kinds of supervised machine learning
+- A Markdown notebook that tutorializes the cleaning of code using Python
+- An interactive Streamlit app allowing users to explore the results of Congressional elections
 
-- I am very pleased to present a new project that I have recently completed on tidy data. Tidying data is one of the most fundamental skills data scientists can have, so I am excited to present my work in this field so far. The project includes code illustrating how I tidied a set of unorganized data on Olympic medalists. The project illustrates the depth of my technical skills and my interest in data organization and presentation. To access the project, click on the link to the my TidyData Respository below (notes3 file has the code).
-
-- I have also completed  a streamlit app that allows the user to filter through congressional elections and observe patterns in them. See my Data Science repository for more!
-
-- Additional projects will be posted here as the semester continues. 
 
 ## Goals
 
