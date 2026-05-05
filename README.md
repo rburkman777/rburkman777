@@ -26,7 +26,7 @@ Proficient in data-clearning capacities of Power BI
 ### 🔢 Stata
 Proficient in performing crosstabulations and regressions using Stata
 
-## 🚧 Current Projects
+## 🚧 Sample Current Projects
 Please follow the link below to see some of my latest work:
 - [Click here](https://github.com/rburkman777/Burkman-Data-Science-Portfolio)
 
