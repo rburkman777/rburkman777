@@ -38,6 +38,7 @@ These include:
 
 ## 📞 Contact Information
 School Email: rburkman@nd.edu
+
 Linkedin Page: [Click here](https://www.linkedin.com/in/rex-burkman-b81432282/)
 
 
