@@ -12,10 +12,10 @@
 ## 🤖 Technical Skills I'm Proficient In
 
 ### 🐍 Python
-Projects include: two Streamlit apps, interactive Markdown notebook
+Projects include: three Streamlit apps, interactive Markdown notebook
 
 ### 📊 R Studio
-Projects: dozens of political graphics, animations, maps, and charts
+Projects include: dozens of political graphics, animations, maps, and charts created with ggplot
 
 ### 📁 Microsoft Office
 Fully proficient in Excel, Microsoft Word, and Microsoft Powerpoint
@@ -24,7 +24,7 @@ Fully proficient in Excel, Microsoft Word, and Microsoft Powerpoint
 Proficient in data-clearning capacities of Power BI
 
 ### 🔢 Stata
-Proficient in data-clearning capacities of Power BI
+Proficient in performing crosstabulations and regressions using Stata
 
 ## Current Projects
 Please follow the link below to see some of my latest work:
