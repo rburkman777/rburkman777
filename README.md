@@ -9,7 +9,7 @@
 
 
 ## Technical Skills I'm Proficient In
-### Python <img width="1280" height="379" alt="Python_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/fc1f9fdf-c03a-46b1-9be2-0d8d8a078eb0" />
+### Python <img width="32" height="10" alt="Python_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/fc1f9fdf-c03a-46b1-9be2-0d8d8a078eb0" />
 
 
 ## Current Projects
