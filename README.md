@@ -1,7 +1,7 @@
 # Hi, I'm Rex Burkman! 👋
 
 ### 🍀 Background 
-### Dedicated, creative data science and political science student at the University of Notre Dame 
+#### Dedicated, creative data science and political science student at the University of Notre Dame 
 
 
 ### 👔 Professional History  
