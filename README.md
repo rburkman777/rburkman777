@@ -1,9 +1,7 @@
 # Hi, I'm Rex Burkman! 👋
-<br>
 
 ### 🍀 Background 
 #### Dedicated, creative data science and political science student at the University of Notre Dame 
-<br>
 
 ### 👔 Professional History  
 - Research assistant for German and Slavic Languages Department, University of Notre Dame (2025-present)
