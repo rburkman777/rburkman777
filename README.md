@@ -2,6 +2,9 @@
 
 ### Dedicated, creative data science and political science student at the University of Notre Dame 
 
+
+
+
 ### 👔 Professional History  
 - Research assistant for German and Slavic Languages Department, University of Notre Dame (2025-present)
 - Teaching assistant, Political Science Department, University of Notre Dame (2025-present)
