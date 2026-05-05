@@ -28,7 +28,7 @@ Proficient in performing crosstabulations and regressions using Stata
 
 ## 🚧 Sample Current Projects
 Please follow the link below to see some of my latest work:
-- [Click here](https://github.com/rburkman777/Burkman-Data-Science-Portfolio)
+- [Burkman Data Science Portfolio](https://github.com/rburkman777/Burkman-Data-Science-Portfolio)
 
 These include: 
 - An interactive Streamlit app that enables users to explore different kinds of unsupervised machine learning
