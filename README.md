@@ -1,15 +1,15 @@
 # Hi, I'm Rex Burkman! 👋
 
-## Biography
+- 🍀 I am a dedicated, innovative, and creative student at the University of Notre Dame majoring in Political Science and minors in Data Science and Business 
 
-- 🍀 I am a dedicated, innovative, and creative student at the University of Notre Dame majoring in Political Science with a minor in Data Science
-- 📚 I have completed several major research projects with professors at the university regarding conversion in the 7th century Middle East and the American urban-rural divide that required substantial data analysis 
-- 💡 I have experience doing consultation projects for health care and energy firms as a student
-- 🏛️ I have experience interning on Capitol Hill 
-
+## Professional History  
+- Research assistant for German and Slavic Languages Department, University of Notre Dame (2025-present)
+- Teaching assistant, Political Science Department, University of Notre Dame
 
 ## Technical Skills I'm Proficient In
-### Python <img width="32" height="10" alt="Python_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/fc1f9fdf-c03a-46b1-9be2-0d8d8a078eb0" />
+
+### Python | R Studio | Microsoft Office | Stata | Power BI 
+
 
 
 ## Current Projects
