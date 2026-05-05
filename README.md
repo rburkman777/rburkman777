@@ -8,7 +8,7 @@
 
 ## 🤖 Technical Skills I'm Proficient In
 
-### Python | R Studio | Microsoft Office | Stata | Power BI 
+Python   |   R Studio   |   Microsoft Office   |   Stata   |   Power BI 
 
 
 
