@@ -1,15 +1,15 @@
 # Hi, I'm Rex Burkman! 👋
 
-### 🍀 Background 
+## 🍀 Background 
 #### Dedicated, creative data science and political science student at the University of Notre Dame 
 
-### 👔 Professional History  
+## 👔 Professional History  
 - Research assistant for German and Slavic Languages Department, University of Notre Dame (2025-present)
 - Teaching assistant, Political Science Department, University of Notre Dame (2025-present)
 - Research assistance, Kellogg Institute for International Studies, University of Notre Dame (2024-present)
 
 
-### 🤖 Technical Skills I'm Proficient In
+## 🤖 Technical Skills I'm Proficient In
 
 #### 🐍 Python
 Projects include: two Streamlit apps, interactive Markdown notebook
