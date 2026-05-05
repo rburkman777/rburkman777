@@ -1,8 +1,7 @@
 # Hi, I'm Rex Burkman! 👋
 
+### 🍀 Background 
 ### Dedicated, creative data science and political science student at the University of Notre Dame 
-
-
 
 
 ### 👔 Professional History  
@@ -13,19 +12,26 @@
 
 ### 🤖 Technical Skills I'm Proficient In
 
-#### Python: Projects include two Streamlit apps and an interactive Markdown notebook for cleaning code
+#### 🐍 Python
+Projects include: two Streamlit apps, interactive Markdown notebook
 
-#### R Studio: Projects dozens of political graphics, animations, maps, and charts
+#### 📊 R Studio
+Projects: dozens of political graphics, animations, maps, and charts
 
-#### Microsoft Office: Fully proficient in Excel, Microsoft Word, and Microsoft Powerpoint
+#### 📁 Microsoft Office
+Fully proficient in Excel, Microsoft Word, and Microsoft Powerpoint
 
-#### Power BI: Fully proficient in Excel, Microsoft Word, and Microsoft Powerpoint
+#### 🧹 Power BI: 
+Proficient in data-clearning capacities of Power BI
 
-
-
-
+#### 🔢 Stata
+Proficient in data-clearning capacities of Power BI
 
 ## Current Projects
+
+
+## Link to Data Science Portfolio Repository 
+- [Click here](https://github.com/rburkman777/Burkman-Data-Science-Portfolio)
 
 -I have just completed a new project on machine learning. Users have the opportunity to upload data and explore supervised machine learning via k-nearest neighbor, decision tree, or linear regression. The application is in Streamlit and demonstrates my skills in Python, Streamlit app development, and app layout. See Burkman-Data-Science-Portfolio for more! 
 - I have just completed a new project on machine learning. Users have the opportunity to upload data and explore supervised machine learning via k-nearest neighbor, decision tree, or linear regression. The application is in Streamlit and demonstrates my skills in Python, Streamlit app development, and app layout. See Burkman-Data-Science-Portfolio for more! 
@@ -43,8 +49,7 @@
 - Learn about new applications that can streamline coding
 
 
-## Link to Data Science Portfolio Repository 
-- [Click here](https://github.com/rburkman777/Burkman-Data-Science-Portfolio)
+
 
 ## Link to new machine learning project folder
 - https://github.com/rburkman777/Burkman-Data-Science-Portfolio/tree/main/MLStreamlitApp
