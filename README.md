@@ -2,11 +2,11 @@
 
 - 🍀 I am a dedicated, innovative, and creative student at the University of Notre Dame majoring in Political Science and minors in Data Science and Business 
 
-## Professional History  
+### Professional History  
 - Research assistant for German and Slavic Languages Department, University of Notre Dame (2025-present)
 - Teaching assistant, Political Science Department, University of Notre Dame
 
-## 🤖 Technical Skills I'm Proficient In
+### 🤖 Technical Skills I'm Proficient In
 
 Python   |   R Studio   |   Microsoft Office   |   Stata   |   Power BI 
 
