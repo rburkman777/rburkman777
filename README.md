@@ -7,7 +7,7 @@
 - Research assistant for German and Slavic Languages Department, University of Notre Dame (2025-present)
 - Teaching assistant, Political Science Department, University of Notre Dame (2025-present)
 - Research assistance, Kellogg Institute for International Studies, University of Notre Dame (2024-present)
-<br>
+
 
 ### 🤖 Technical Skills I'm Proficient In
 
