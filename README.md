@@ -36,17 +36,3 @@ These include:
 - A Markdown notebook that tutorializes the cleaning of code using Python
 - An interactive Streamlit app allowing users to explore the results of Congressional elections
 
-
-## Goals
-
-- Build a portfolio of projects that reflect my interests and talents
-- Increase my proficiency in various coding languages, including Python
-- Learn about new applications that can streamline coding
-
-
-
-
-## Link to new machine learning project folder
-- https://github.com/rburkman777/Burkman-Data-Science-Portfolio/tree/main/MLStreamlitApp
-
-
